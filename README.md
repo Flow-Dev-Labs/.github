@@ -1,11 +1,10 @@
 <div align="center">
 <img src="https://github.com/Flow-Dev-Labs/.github/blob/main/logo_with_name.jpg?raw=true" alt="Flow Dev Labs Logo" width="200" height="200" />
 
-🌊 Flow Dev Labs
 
-Building intelligent software for the modern world.
+# Building intelligent software for the modern world.
 
-We are a software innovation studio dedicated to shipping high-impact AI tools and User-Centric Applications. We combine cutting-edge engineering with domain expertise to solve real problems.
+### We are a software innovation studio dedicated to shipping high-impact AI tools and User-Centric Applications. We combine cutting-edge engineering with domain expertise to solve real problems.
 
 </div>
 
