@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.google.com/search?q=https://via.placeholder.com/200x200%3Ftext%3DFlow%2BDev%2BLabs" alt="Flow Dev Labs Logo" width="200" height="200" />
+<img src="[https://www.google.com/search?q=https://via.placeholder.com/200x200%3Ftext%3DFlow%2BDev%2BLabs](https://github.com/Flow-Dev-Labs/.github/blob/main/logo_with_name.jpg?raw=true)" alt="Flow Dev Labs Logo" width="200" height="200" />
 
 🌊 Flow Dev Labs
 
